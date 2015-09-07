@@ -31,4 +31,4 @@ Time spent: 13
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](https://cloud.githubusercontent.com/assets/8816061/9722441/7cb0742c-55d7-11e5-96ef-fd61e16cc775.gif)
